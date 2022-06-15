@@ -1,0 +1,35 @@
+[
+    {
+        "numeroContrat": "501549854",
+        "souscripteur": "Exemple",
+        "cinSouscripteur": "B2156548632",
+        "numeroSinistre": "2021720013",
+        "dateBordereau": "18/01/2021",
+        "numeroQuittance": "069241",
+        "matricule": "000465",
+        "prenom": "FLEN",
+        "nom": "BEN FOULEN",
+        "benificiaire": "FLEN",
+        "qualiteBeneficiare": "Adhérent",
+        "montantDepense": 182.595,
+        "montantRemboursement": 122.336,
+        "statutReg": "Réglé"
+    },
+    {
+        "numeroContrat": "501549254",
+        "souscripteur": "Exemple",
+        "cinSouscripteur": "B2156548632",
+        "numeroSinistre": "2028440014",
+        "dateBordereau": "18/01/2021",
+        "numeroQuittance": "069241",
+        "matricule": "000465",
+        "prenom": "FLEN",
+        "nom": "BEN FOULEN",
+        "benificiaire": "FLEN",
+        "qualiteBeneficiare": "Adhérent",
+        "montantDepense": 102.595,
+        "montantRemboursement": 90.336,
+        "statutReg": "Réglé"
+    },
+…
+]
